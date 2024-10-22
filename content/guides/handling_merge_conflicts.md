@@ -64,4 +64,3 @@ After you have resolved the conflict, commit the resolved conflict.
 git add project/locations/outdoors/outdoors.tscn
 git rebase --continue
 ```
-
