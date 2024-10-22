@@ -8,3 +8,9 @@ url: https://screwloose-games.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+just_the_docs:
+  search:
+    enabled: true
+    heading_levels: 1..6
+    content: true
