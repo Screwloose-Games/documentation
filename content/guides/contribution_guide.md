@@ -1,3 +1,9 @@
+---
+title: Contribution Guide
+layout: page
+published: true
+---
+
 # Contribution Guide
 
 ## Purpose
