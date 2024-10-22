@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Setup VS Code
+published: true
 ---
 
 # Setup VS Code
