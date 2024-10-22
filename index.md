@@ -8,6 +8,4 @@ published: true
 
 # Screwloose Games Documentation
 
-## Onboarding
-
 ## Standard Procedures

@@ -20,6 +20,11 @@
           "title": "permalink",
           "name": "permalink",
           "type": "string"
+        },
+        {
+          "title": "published",
+          "name": "published",
+          "type": "boolean"
         }
       ]
     }
