@@ -3,6 +3,7 @@ title: Contributing Godot Scenes
 layout: page
 published: true
 ---
+# Contributing Godot Scenes
 
 ## Create a test scene in test/scenes/test_<your_scene_name>/test_<your_scene_name>.tscn
 
