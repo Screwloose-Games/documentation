@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Game Design Standards
+published: true
 ---
 
 # Game Design Standards
