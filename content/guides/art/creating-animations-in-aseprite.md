@@ -46,7 +46,7 @@ Note: Prefer using the following format for tags:
 
 ## Mark animations that do not loop
 
-Looping is teh default behavior for a region. If you have an animation that does not loop, you can mark it with:
+Looping is the default behavior for a region. If you have an animation that does not loop, you can mark it with:
 
 `[x] repeat: 1`
 
