@@ -62,6 +62,14 @@ A little too loud:
 
 ![alt text](2024-10-22_14-32-48.gif)
 
+##### Apply LUFS normalization
+
+![alt text](image-6.png)
+
+After normalization:
+
+![alt text](2024-10-22_14-38-29.gif)
+
 ### **Looping Music**
 
 - For looping tracks, ensure the loop is seamless and doesn’t include any audible pops or clicks.
