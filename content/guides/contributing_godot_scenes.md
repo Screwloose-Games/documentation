@@ -5,7 +5,7 @@ published: true
 ---
 # Contributing Godot Scenes
 
-## Create a test scene in test/scenes/test_<your_scene_name>/test_<your_scene_name>.tscn
+## Create a test scene in test/scenes/test_\<your_scene_name\>/test_\<your_scene_name\>.tscn
 
 Your scene path: project/locations/outside/outside.tscn
 Test scene path: test/scenes/test_outside/test_outside.tscn
