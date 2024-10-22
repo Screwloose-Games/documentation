@@ -8,12 +8,6 @@ title: How to Contribute Sound Effects
 
 This document covers the specifications for contributing sound effects to our Games. If you are interested in contributing sound effects, please review the following guidelines carefully to ensure consistent integration into our projects.
 
-## See also
-
-- [How to contribute music](./how_to_contribute_music.md)
-- [How to contribute voice-over](./how_to_contribute_voice_over.md)
-- [How to contribute ambient sounds](./how_to_contribute_ambient_sounds.md)
-
 ## Overview
 
 This document outlines the standards for submitting sound effects to our games. To maintain consistency and performance across all our projects, contributors must adhere to the following sound effect specifications.
@@ -78,3 +72,9 @@ Include the following metadata where possible:
 ## Why Use .wav for Sound Effects?
 
 WAV files are uncompressed and easier for the game engine to process. This format is ideal for short, frequent sound effects as it avoids the decoding overhead required by compressed formats like OGG, ensuring sound effects can play instantly without delay.
+
+## See also
+
+- [How to contribute music](./how_to_contribute_music.md)
+- [How to contribute voice-over](./how_to_contribute_voice_over.md)
+- [How to contribute ambient sounds](./how_to_contribute_ambient_sounds.md)

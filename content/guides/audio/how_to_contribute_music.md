@@ -8,29 +8,18 @@ title: How to Contribute Music
 
 This document covers the specifications for music in the game. If you are interested in contributing music, please read this document carefully.
 
-## See also
-
-- [How to contribute sound effects](./how_to_contribute_sound_effects.md)
-- [How to contribute voice-over](./how_to_contribute_voice_over.md)
-- [How to contribute ambient sounds](./how_to_contribute_ambient_sounds.md)
-
 ## Overview
 
 This document provides detailed guidelines for music composers contributing to projects. To ensure consistency and seamless integration with our Godot 4 games, please adhere to the following specifications for music submission.
 
 ## Music Specifications
 
-### File Format
+### Technical Specs:
 
-`.ogg` OGG (Ogg Vorbis)
-
-### Bitrate
-
-192 kbps Constant Bitrate (CBR)
-
-### Sample Rate
-
-44.1 kHz
+**File Format:** `.ogg` OGG (Ogg Vorbis)
+**Bitrate:** 192 kbps Constant Bitrate (CBR)
+**Bit Depth:** 16-bit
+**Sample Rate:** 44.1 kHz
 
 ---
 
@@ -44,34 +33,12 @@ This document provides detailed guidelines for music composers contributing to p
 
 ### **Looping Music**
 
-- For looping tracks, ensure the loop is seamless and doesn’t include any audible pops or clicks.
+- Create a loop point in the metadata
+- End the file name with `_loop` if the file loops
+- Ensure the loop is seamless and doesn’t include any audible pops or clicks.
 - Avoid fade-in or fade-out on loops unless specifically requested.
-- If possible, provide two versions:
-  1. **Looping Version**: For in-game looping (ensure seamless playback).
-  2. **Full Version**: For promotional purposes or non-looped segments.
 
-### **Store loop data in metadata**
-
-Given you have a file where the end of the file is designed to loop seamlessly back into an earlier part of the file:
-
-![alt text](image-3.png)
-
-Set `LOOP_POINT` in the metadata to the point in seconds where the loop should start:
-
-Example metadata with `LOOP_POINT` set to a value in seconds (with precision up to 0.001):
-
-![alt text](image-2.png)
-
-Also, set LOOP to true:
-
-![alt text](image-4.png)
-
-- Put `_loop` at the end of the file name (e.g., `main_theme_loop_v4.ogg`).
-
-### **Sample Rate and Bit Depth**
-
-- **Sample Rate**: 44.1 kHz (standard for game music)
-- **Bit Depth**: 16-bit (sufficient for game audio quality while keeping file sizes manageable)
+- See: [How to Make Looping Audio Tracks](./how_to_make_looping_audio_tracks.md)
 
 ### **File Naming Conventions**
 
@@ -104,3 +71,9 @@ Include the following metadata in the OGG files:
    - Use the project’s shared file storage or GitHub repository for file delivery.
    - Ensure tracks are compressed efficiently to minimize file size without sacrificing quality (192 kbps OGG).
    - Organize files into a "Music" folder within the project’s audio directory. `/project/assets/audio/music`.
+
+## See also
+
+- [How to contribute sound effects](./how_to_contribute_sound_effects.md)
+- [How to contribute voice-over](./how_to_contribute_voice_over.md)
+- [How to contribute ambient sounds](./how_to_contribute_ambient_sounds.md)
