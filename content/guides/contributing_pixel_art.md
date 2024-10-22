@@ -1,7 +1,7 @@
 ---
 title: Contributing Pixel Art
 layout: page
-published: true
+published: false
 ---
 # Contributing Pixel Art
 

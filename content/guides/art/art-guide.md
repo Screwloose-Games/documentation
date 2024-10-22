@@ -1,7 +1,7 @@
 ---
 title: Art Guide
 layout: page-toc
-published: true
+published: false
 ---
 
 # Art Guide
