@@ -32,26 +32,17 @@ This document provides detailed guidelines for music composers contributing to p
 
 OGG provides an excellent balance between quality and file size, and 192 kbps ensures high-fidelity audio.
 
-### Looping
-
-- Music tracks should be designed to loop seamlessly.
-
-### Naming conventions
-
-- Music files should be named descriptively and follow the format `track_name.ogg`.
-
-### Screwloose Games: Music Contribution Specifications
-
-
-
 ---
-
 
 ### **Audio Processing**
 
 - **Normalization**: All music files must be normalized to ensure consistent playback volume across different tracks. Please apply a **-1 dB ceiling** to prevent clipping during playback.
   - **Target loudness**: -14 LUFS (for a balance between loudness and dynamics).
   - **Ensure no excessive dynamic range compression**, unless stylistically required.
+
+Example visual difference in loudness levels:
+
+![alt text](image.png)
 
 ### **Looping Music**
 
@@ -72,10 +63,15 @@ OGG provides an excellent balance between quality and file size, and 192 kbps en
   - **[project_name]_bgm_[description]_[version].ogg**
   - Example: `puzzlegame_bgm_main_theme_v1.ogg`
 - Be descriptive with the track’s purpose (e.g., "main_theme," "boss_fight," "ambient_loop").
+- Use underscores to separate words (e.g., `main_theme.ogg`, `boss_fight.ogg`).
+- Use lowercase letters
+- Avoid special characters or spaces in file names.
+- Use version numbers for different iterations (e.g., `main_theme_v1.ogg`, `main_theme_v2.ogg`).
 
 ### **Metadata Requirements**
 
 Include the following metadata in the OGG files:
+
 - Track title
 - Composer name
 - Track length
@@ -86,21 +82,15 @@ Include the following metadata in the OGG files:
 1. **Review and Submission Process**
    - All tracks must be submitted for review via the project’s designated shared drive or repository.
    - Ensure files are properly named and organized in a "Music" folder under the project name.
-   
-2. **Versioning**
-   - Clearly version each submission to track updates and iterations.
 
-3. **Delivery Format**
+2. **Delivery Format**
    - Use the project’s shared file storage or GitHub repository for file delivery.
    - Ensure tracks are compressed efficiently to minimize file size without sacrificing quality (192 kbps OGG).
+   - Organize files into a "Music" folder within the project’s audio directory. `/project/assets/audio/music`.
 
 ---
 
-This document outlines the standards for contributing music to Screwloose Games. Adherence to these specifications will ensure that your music integrates smoothly into our projects.
-
 ## Deciding file types
-
-### Performance and Memory Usage
 
 Why use .ogg for music and ambient sounds and .wav for sound effects?
 
