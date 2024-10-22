@@ -1,6 +1,6 @@
 ---
 title: Art Guide
-layout: page
+layout: page-toc
 published: true
 ---
 

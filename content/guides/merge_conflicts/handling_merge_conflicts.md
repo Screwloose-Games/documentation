@@ -1,6 +1,6 @@
 ---
 title: Handling Merge Conflicts
-layout: page
+layout: page-toc
 published: true
 ---
 

@@ -6,6 +6,11 @@ published: true
 
 # Creating Animations in Aseprite
 
+## Who is this for
+
+- Any artist using Aseprite to create animations for a Godot game.
+- Any programmer working in Godot who needs to understand how to work with animations created in Aseprite.
+
 ## Purpose
 
 The purpose of this guide is to help you understand the standards and procedures for creating animations in Aseprite for Godot.

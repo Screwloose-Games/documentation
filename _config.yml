@@ -3,6 +3,7 @@ description: Learn how to contribute at Screwloose Games
 theme: just-the-docs
 plugins:
   - jekyll-relative-links
+  - jekyll-toc
 
 url: https://screwloose-games.github.io
 
