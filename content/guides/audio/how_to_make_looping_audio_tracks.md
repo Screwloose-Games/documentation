@@ -35,3 +35,7 @@ Also, set LOOP to true:
 ![alt text](image-4.png)
 
 - Put `_loop` at the end of the file name (e.g., `main_theme_loop_v4.ogg`).
+
+## See Also
+
+- [Making Audio Loops in Audacity](https://support.audacityteam.org/music/working-with-audio-loops/making-audio-loops)
