@@ -28,9 +28,9 @@ This document provides detailed guidelines for music composers contributing to p
 
 192 kbps Constant Bitrate (CBR)
 
-### Reasoning
+### Sample Rate
 
-OGG provides an excellent balance between quality and file size, and 192 kbps ensures high-fidelity audio.
+44.1 kHz
 
 ---
 
@@ -40,35 +40,7 @@ OGG provides an excellent balance between quality and file size, and 192 kbps en
   - **Target loudness**: -14 LUFS (for a balance between loudness and dynamics).
   - **Ensure no excessive dynamic range compression**, unless stylistically required.
 
-Example visual difference in loudness levels:
-
-![alt text](image.png)
-
-#### LUFS (Loudness Units Full Scale)
-
-- LUFS is a standard measurement for loudness in audio. It helps maintain consistent volume levels across different tracks.
-- For original music, aim for a target loudness of -14 LUFS. You want it loud in the original recording to keep the dynamics, but not too loud that it clips or distorts. You need some headroom for mastering.
-- Music will be adjusted (likely brought down to about -24 LUFS) to match the target loudness in the game engine.
-
-##### Example LUFS meters
-
-Example tool: [Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/)
-
-Too quiet:
-
-![alt text](image-5.png)
-
-A little too loud:
-
-![alt text](2024-10-22_14-32-48.gif)
-
-##### Apply LUFS normalization
-
-![alt text](image-6.png)
-
-After normalization:
-
-![alt text](2024-10-22_14-38-29.gif)
+- [How to Normalize LUFS](./how_to_normalize_lufs.md)
 
 ### **Looping Music**
 
