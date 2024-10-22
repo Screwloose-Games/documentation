@@ -31,6 +31,7 @@ layout: page
 ![alt text](image-4.png)
 3. Open the inspector panel.
 4. At the bottom, under `Aseprite`, select the `.aseprite` file you imported. (You can drag and drop the file into the `Aseprite File` field.)
+
 ![alt text](image-5.png)
 5. Click the `Import` button.
 
