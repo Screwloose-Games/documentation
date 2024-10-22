@@ -67,3 +67,4 @@ Include the following metadata where applicable:
 - [How to contribute music](./how_to_contribute_music.md)
 - [How to contribute sound effects](./how_to_contribute_sound_effects.md)
 - [How to contribute voice-over](./how_to_contribute_voice_over.md)
+- [How to Make Looping Audio Tracks](./how_to_make_looping_audio_tracks.md)

@@ -14,7 +14,7 @@ This document provides detailed guidelines for music composers contributing to p
 
 ## Music Specifications
 
-### Technical Specs:
+### Technical Specs
 
 **File Format:** `.ogg` OGG (Ogg Vorbis)
 **Bitrate:** 192 kbps Constant Bitrate (CBR)
@@ -77,3 +77,4 @@ Include the following metadata in the OGG files:
 - [How to contribute sound effects](./how_to_contribute_sound_effects.md)
 - [How to contribute voice-over](./how_to_contribute_voice_over.md)
 - [How to contribute ambient sounds](./how_to_contribute_ambient_sounds.md)
+- [Explanation of WAV and ogg](./explanation_of_wav_and_ogg.md)

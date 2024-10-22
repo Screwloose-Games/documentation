@@ -110,3 +110,7 @@ Metadata is important because it provides context and information about the voic
 ---
 
 By following these specifications, your voice-over work will be integrated seamlessly into our games, ensuring both quality and performance across different audio types.
+
+## See Also
+
+- [Explanation of WAV and ogg](./explanation_of_wav_and_ogg.md)
