@@ -56,3 +56,11 @@ Example animations that do not loop:
 - death
 
 ![Aseprite with tagged regions](image-2.png)
+
+## Exporting animations
+
+When using the Aseprite to Godot Workflow, there is no need to export from the Aseprite file. Instead, you can save the Aseprite file and import it in Godot.
+
+## Importing Aseprite animations in Godot
+
+[How to import Aseprite animations in Godot](./importing-aseprite-animations-in-godot.md)
