@@ -52,6 +52,24 @@ Example visual difference in loudness levels:
   1. **Looping Version**: For in-game looping (ensure seamless playback).
   2. **Full Version**: For promotional purposes or non-looped segments.
 
+### **Store loop data in metadata**
+
+Given you have a file where the end of the file is designed to loop seamlessly back into an earlier part of the file:
+
+![alt text](image-3.png)
+
+Set `LOOP_POINT` in the metadata to the point in seconds where the loop should start:
+
+Example metadata with `LOOP_POINT` set to a value in seconds (with precision up to 0.001):
+
+![alt text](image-2.png)
+
+Also, set LOOP to true:
+
+![alt text](image-4.png)
+
+- Put `_loop` at the end of the file name (e.g., `main_theme_loop_v4.ogg`).
+
 ### **Sample Rate and Bit Depth**
 
 - **Sample Rate**: 44.1 kHz (standard for game music)
@@ -67,6 +85,7 @@ Example visual difference in loudness levels:
 - Use lowercase letters
 - Avoid special characters or spaces in file names.
 - Use version numbers for different iterations (e.g., `main_theme_v1.ogg`, `main_theme_v2.ogg`).
+- If the file loops, put `_loop` at the end of the file name (e.g., `main_theme_loop_v4.ogg`).
 
 ### **Metadata Requirements**
 
