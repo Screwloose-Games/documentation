@@ -1,3 +1,9 @@
+---
+title: Handling Merge Conflicts
+layout: page
+published: true
+---
+
 # Handling Merge Conflicts
 
 ## Handling merge conflicts in Scene Files (.tscn)
