@@ -10,9 +10,9 @@ This document covers the specifications for music in the game. If you are intere
 
 ## See also
 
-- How to contribute sound effects
-- How to contribute voice-overs
-- How to contribute ambient sounds
+- [How to contribute sound effects](./how_to_contribute_sound_effects.md)
+- [How to contribute voice-over](./how_to_contribute_voice_over.md)
+- [How to contribute ambient sounds](./how_to_contribute_ambient_sounds.md)
 
 ## Overview
 
