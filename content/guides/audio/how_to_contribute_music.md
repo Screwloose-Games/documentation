@@ -44,6 +44,24 @@ Example visual difference in loudness levels:
 
 ![alt text](image.png)
 
+#### LUFS (Loudness Units Full Scale)
+
+- LUFS is a standard measurement for loudness in audio. It helps maintain consistent volume levels across different tracks.
+- For original music, aim for a target loudness of -14 LUFS. You want it loud in the original recording to keep the dynamics, but not too loud that it clips or distorts. You need some headroom for mastering.
+- Music will be adjusted (likely brought down to about -24 LUFS) to match the target loudness in the game engine.
+
+##### Example LUFS meters
+
+Example tool: [Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/)
+
+Too quiet:
+
+![alt text](image-5.png)
+
+A little too loud:
+
+![alt text](2024-10-22_14-32-48.gif)
+
 ### **Looping Music**
 
 - For looping tracks, ensure the loop is seamless and doesn’t include any audible pops or clicks.
