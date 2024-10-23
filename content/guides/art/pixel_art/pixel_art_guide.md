@@ -36,6 +36,12 @@ Prefer to use Aseprite for creating sprite sheets. If so, follow [this guide](..
 
 [A tool to help decide on specs](https://www.screwloosegames.com/pixel-art-tool)
 
+Example
+
+427 x 240 canvas size
+
+![alt text](image.png)
+
 ### Handling scaling and stretching in Godot engine as a programmer
 
 Notes from the engine documentation:
