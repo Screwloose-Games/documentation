@@ -1,3 +1,8 @@
+---
+layout: page
+title: Create rigged 3d humanoid characteres for godot
+---
+
 # Create rigged 3d humanoid characteres for godot
 
 This requires the use of a 2-legged (bipedal) humanoid character.

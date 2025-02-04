@@ -1,3 +1,8 @@
+---
+layout: page
+title: Getting started with 2d lighting in Godot
+---
+
 # Getting started with 2d lighting in Godot
 
 See this video for an intro:
