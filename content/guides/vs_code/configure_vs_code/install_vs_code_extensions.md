@@ -26,3 +26,9 @@ Scene tree / node list preview
 [Marketplace link](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
 ![alt text](image-2.png)
+
+---
+
+Written by [Jonathan Lewis](https://www.linkedin.com/in/jonathan-david-lewis/)
+
+Please reach out if you have any questions or suggestions for improvements.

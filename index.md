@@ -21,9 +21,9 @@ published: true
 - [Design Handoff Process](content/guides/design-handoff-process.md)
 ## Setting up Tools
 
+- [Setup General Tools](./content/guides/tool_setup/setup_general_tools.md)
 - [Setup GitHub](./content/guides/setup_github.md)
 - [Setup Git](./content/guides/setup_git.md)
-- [Setup General Tools](./content/guides/tool_setup/setup_general_tools.md)
 - [Setup Godot](./content/guides/setup_godot.md)
 - [Setup VS Code](./content/guides/vs_code/setup_vscode.md)
 

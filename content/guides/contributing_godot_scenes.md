@@ -56,3 +56,9 @@ Make your PR.
 The contents should be relatively simple and self-contained. It should test a specific feature or behavior of the game.
 
 ![alt text](image-3.png)
+
+---
+
+Written by [Jonathan Lewis](https://www.linkedin.com/in/jonathan-david-lewis/)
+
+Please reach out if you have any questions or suggestions for improvements.

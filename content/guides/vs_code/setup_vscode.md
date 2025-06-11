@@ -50,3 +50,9 @@ Visual Studio Code has a rich extension ecosystem that can enhance your developm
 - [C# Tools for Godot](https://marketplace.visualstudio.com/items?itemName=neikeq.godot-csharp-vscod)
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 - [Emoji](https://marketplace.visualstudio.com/items?itemName=Perkovec.emoji)
+
+---
+
+Written by [Jonathan Lewis](https://www.linkedin.com/in/jonathan-david-lewis/)
+
+Please reach out if you have any questions or suggestions for improvements.

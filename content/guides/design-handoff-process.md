@@ -26,3 +26,8 @@ Before the meeting, ask the designer to list the tasks they believe would be req
 
 Review the tasks that the designer created and make notes to them and adjust the issue.
 
+---
+
+Written by [Jonathan Lewis](https://www.linkedin.com/in/jonathan-david-lewis/)
+
+Please reach out if you have any questions or suggestions for improvements.
