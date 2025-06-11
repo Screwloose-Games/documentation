@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Setup Git
+published: true
 ---
 
 # Setup Git
@@ -33,3 +34,9 @@ git --version
 ```
 
 You should see the version of Git that you installed.
+
+---
+
+Written by [Jonathan Lewis](https://www.linkedin.com/in/jonathan-david-lewis/)
+
+Please reach out if you have any questions or suggestions for improvements.

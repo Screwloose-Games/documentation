@@ -1,3 +1,9 @@
+---
+title: Standard Practices
+layout: page
+published: true
+---
+
 # Standard Practices
 
 For game Jams approximately 4 days - 2 weeks.
@@ -6,7 +12,7 @@ For game Jams approximately 4 days - 2 weeks.
 
 The purpose of this document is to provide a set of standard practices for the development of games in collaboration with Screwloose Games. First and foremost, they are intended to give you as a contributor an environment that is predictable and consistent and help disambiguate expectations of you and of the team as a whole.
 
-If this is your first time contributing, there's no need to memorize all of this. Just be aware that these practices exist and refer back to them as needed. If you have any questions, feel free to ask in the Discord.
+If this is your first time contributing, **there's no need to memorize all of this**. Just be aware that these practices exist and **refer back to them as needed**. If you have any questions, feel free to ask in the Discord.
 
 You may be referred back to this document. This is simply a standard practice to reduce the need to reiterate and surface any shortcomings in these practices that should be addressed.
 
@@ -88,3 +94,9 @@ Any other engine would be atypical and would require a discussion with the team.
 - Use the Godot-tools extension for VSCode. (It's a great tool for autocompletion and debugging.)
 - Organize your code so as to minimize errors and warnings in Godot-tools.
 - Raise any issues you notice with the extension.
+
+---
+
+Written by [Jonathan Lewis](https://www.linkedin.com/in/jonathan-david-lewis/)
+
+Please reach out if you have any questions or suggestions for improvements.

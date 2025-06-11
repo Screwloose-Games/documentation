@@ -85,3 +85,9 @@ Review and adhere to the project's Code of Conduct to maintain an open and welco
 ## Questions?
 
 Reach out via the project's communication channels if you have questions.
+
+---
+
+Written by [Jonathan Lewis](https://www.linkedin.com/in/jonathan-david-lewis/)
+
+Please reach out if you have any questions or suggestions for improvements.
