@@ -4,6 +4,8 @@ title: Why We Use GLTF
 published: true
 ---
 
+# Why We Use GLTF
+
 ## We use GLTF (GL Transmission Format) for several reasons:
 
 * **Industry Standard**: GLTF is widely adopted in the industry as a standard format for 3D models, making it easier to share and collaborate on assets across different platforms and tools.
