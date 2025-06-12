@@ -29,7 +29,7 @@ published: true
 * **Version Control**: While GLB files are binary, they can still be version controlled effectively if the project uses a system that supports binary files. __However, it is generally easier to work with GLTF for version control due to its text-based nature.__
 * **Single File**: GLB is the binary version of GLTF, which combines the JSON data and binary data into a single file. It is useful for reducing the number of files needed for a 3D asset, making it easier to manage and distribute.
 * **Redability**: GLB files __are not human-readable like GLTF files__, which can make debugging and manual editing more challenging.
-* **Performance**: GLB files are optimized for performance, as they can _individually_ be loaded more quickly than multiple separate files. This is particularly beneficial for real-time applications like games.
+* **Performance**: GLB files are optimized for performance, as they can _individually_ be loaded more quickly than multiple separate files. This is particularly beneficial for real-time applications like games. However, because textures are packed, you can end up with larger file sizes than GLTF files, which can impact load times and storage space.
 
 
 ## Resources
