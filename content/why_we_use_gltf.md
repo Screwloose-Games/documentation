@@ -25,11 +25,11 @@ published: true
 
 ## What about .GLB?
 
+* **Duplicate files when imported**: When importing GLB files into Godot, they are converted to GLTF format, which means that the original GLB file is not used directly in the project. __This causes texture files to be duplicated__. Textures are a significant amount of the storage space in builds. Keeping build size down is important for game load times and being able to upload a web build to Itch. [See this conversation, for example](https://godotforums.org/d/29060-workflow-for-importing-glb-and-editing-materials)
 * **Single File**: GLB is the binary version of GLTF, which combines the JSON data and binary data into a single file. It is useful for reducing the number of files needed for a 3D asset, making it easier to manage and distribute.
 * **Redability**: GLB files __are not human-readable like GLTF files__, which can make debugging and manual editing more challenging.
 * **Performance**: GLB files are optimized for performance, as they can _individually_ be loaded more quickly than multiple separate files. This is particularly beneficial for real-time applications like games.
 * **Version Control**: While GLB files are binary, they can still be version controlled effectively if the project uses a system that supports binary files. __However, it is generally easier to work with GLTF for version control due to its text-based nature.__
-* **Duplicate files when imported**: When importing GLB files into Godot, they are converted to GLTF format, which means that the original GLB file is not used directly in the project. This can lead to duplicate files if both GLB and GLTF versions are present in the project. [See this conversation, for example](https://godotforums.org/d/29060-workflow-for-importing-glb-and-editing-materials)
 
 
 ## Resources
