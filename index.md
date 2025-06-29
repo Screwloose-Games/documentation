@@ -19,6 +19,8 @@ published: true
 - [Contribution Guide](./content/guides/contribution_guide.md)
 - [UI Design Process](./content/guides/game_design/ui_design_process.md)
 - [Design Handoff Process](content/guides/design-handoff-process.md)
+- [Github Workflow](./content/guides/github-workflow.md)
+
 ## Setting up Tools
 
 - [Setup General Tools](./content/guides/tool_setup/setup_general_tools.md)
@@ -34,6 +36,9 @@ published: true
 ## Game Development
 
 - [Game Design](./content/guides/game_design/game_design.md)
+
+## Shaders
+- [Godot Shader Resources](./content/godot_shader_resources.md)
 
 ---
 
