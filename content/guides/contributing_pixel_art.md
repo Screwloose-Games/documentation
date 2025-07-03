@@ -26,7 +26,7 @@ Animated sprites are sequences of images that create the illusion of movement. T
 ## Pixel Art Specifications
 
 - **Resolution**: The pixel art should be created at a resolution of 16x16 pixels.
-- **Color Palette**: Use a limited color palette to maintain a consistent aesthetic. The recommended palette is the [DawnBringer 16 Color Palette](https://lospec.com/palette-list/dawnbringer-16-color-palette).
+- **Color Palette**: Use a limited color palette to maintain a consistent aesthetic. You can find color palettes on [Lospec](https://lospec.com/palette-list).
 - **File Format**: Save the pixel art files in PNG format to preserve transparency and quality.
 
 ---
