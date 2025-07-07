@@ -9,7 +9,7 @@ title: Create a Tile Set
 
 ### What you need to know:
 
-1. The size of the isometric tiles.
+You need to know the **size of the isometric tiles**.
 
 Get the height and width of the area of an individual cel of the tile set. 
 
@@ -30,8 +30,17 @@ If you have an example of a whole floor of tiles, you can measure the height and
 
 In the image above, you would measure the width and divide by 5 to get the width of an individual tile, and measure the height and divide by 6 to get the height of an individual tile.
 
+#### Typical Isometric Tile Sizes
 
-1. The texture region you need to fit the content you want to have in each tile.
+The width of an isometric tile is typically 2x the height. This is what simulates the isometric perspective.
+
+| Tile Size simulated | Actual Width | Actual Height |
+|-----------|-------|--------|
+| 32x32     | 32    | 16     |
+| 64x64     | 64    | 32     |
+
+
+You need to know **the texture region you need to fit the content you want to have in each tile**.
 
 ![Texture Region Example](texture-region-example.png)
 
@@ -44,16 +53,6 @@ For a tile that covers more area than the tile itself, parts of the tile will sp
 For example, you may have a tree that takes 1 tile, but the top of the tree will spill over to the top, left, and right.
 
 ![Example tree covering tiles](tree_covering_tiles.png)
-
-
-## Typical Isometric Tile Sizes
-
-The width of an isometric tile is typically 2x the height. This is what simulates the isometric perspective.
-
-| Tile Size simulated | Actual Width | Actual Height |
-|-----------|-------|--------|
-| 32x32     | 32    | 16     |
-| 64x64     | 64    | 32     |
 
 ### Correct the texture origin in Godot
 
