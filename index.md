@@ -12,7 +12,6 @@ published: true
 ## Standard Procedures
 
 - [Standard Practices](./content/guides/standard-practices/standard-practice.md)
-- [Contributing Godot Scenes](./content/guides/contributing_godot_scenes.md)
 - [Contributing Pixel Art](./content/guides/contributing_pixel_art.md)
 - [How to Make Meaningful Contributions](./content/2024-10-21-how-to-make-meaningful-contributions.md)
 - [Handling Merge Conflicts](./content/guides/merge_conflicts/handling_merge_conflicts.md)
@@ -20,7 +19,30 @@ published: true
 - [UI Design Process](./content/guides/game_design/ui_design_process.md)
 - [Design Handoff Process](content/guides/design-handoff-process.md)
 - [Github Workflow](./content/guides/github-workflow.md)
+
+## 2D Games in Godot
+
+### Art & Animation
+
+- [Contributing Godot Scenes](./content/guides/contributing_godot_scenes.md)
+- [Pixel Art Guide](./content/guides/art/pixel_art/pixel_art_guide.md)
+- [Creating Animations in Aseprite](./content/guides/art/creating-animations-in-aseprite.md)
+- [Importing Aseprite Animations in Godot](./content/guides/art/importing-aseprite-animations-in-godot.md)
+- [How to Add Normal Maps to Pixel Art](./content/guides/art/pixel_art/normal_maps/add_normal_maps.md)
+
+### Tilesets & Level Design
+
 - [Create a 2D Tile Set](./content/guides/2d/create-a-tileset.md)
+
+### Lighting
+
+- [Getting Started with 2D Lighting in Godot](./content/guides/2d/lighting/getting-started-light-godot-2d.md)
+
+
+## 3D Games in Godot
+
+- [3D Lighting in Godot](./content/3d-lighting-in-godot.md)
+- [Why We Use GLTF](./content/why_we_use_gltf.md)
 
 ## Setting up Tools
 
