@@ -5,9 +5,9 @@ permalink: /
 published: true
 ---
 
-## Standards
+# Table of Contents
 
-- [Why We Use GLTF](./content/why_we_use_gltf.md)
+This documentation is a collection of resources, guides, and standards for game development at Screwloose Games. It covers everything from project setup to advanced techniques in Godot.
 
 ## Standard Procedures
 
