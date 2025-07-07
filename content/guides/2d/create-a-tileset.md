@@ -33,15 +33,17 @@ In the image above, you would measure the width and divide by 5 to get the width
 
 1. The texture region you need to fit the content you want to have in each tile.
 
-You can determine the max top, bottom, left, and right area you need around the tiles themselves to be available for the content you want to have in each tile.
-
-For a tyle that covers more area than the tile itself, parts of the tile will spill over onto other tiles. This is fine, as long as you are aware of it and design the tiles accordingly.
-
-For example, you may have a tree that takes 1 tile, but the top of the tree will spill over to the top, left, and right.
-
 ![Texture Region Example](texture-region-example.png)
 
 Shown in the image is the texture region of a tile.
+
+You can determine the max top, bottom, left, and right area you need around the tiles themselves to be available for the content you want to have in each tile.
+
+For a tile that covers more area than the tile itself, parts of the tile will spill over onto other tiles. This is fine, as long as you are aware of it and design the tiles accordingly.
+
+For example, you may have a tree that takes 1 tile, but the top of the tree will spill over to the top, left, and right.
+
+![Example tree covering tiles](tree_covering_tiles.png)
 
 
 ## Typical Isometric Tile Sizes
