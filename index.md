@@ -20,6 +20,7 @@ published: true
 - [UI Design Process](./content/guides/game_design/ui_design_process.md)
 - [Design Handoff Process](content/guides/design-handoff-process.md)
 - [Github Workflow](./content/guides/github-workflow.md)
+- [Create a 2D Tile Set](./content/guides/2d/create-a-tileset.md)
 
 ## Setting up Tools
 
