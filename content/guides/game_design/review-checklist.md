@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Game Design Standards
+title: Review Checklist
 published: true
 ---
 

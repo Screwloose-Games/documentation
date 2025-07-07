@@ -1,5 +1,5 @@
 ---
-title: Contribution Guide
+title: Design Meeting Handoff Process
 layout: page
 published: true
 ---
