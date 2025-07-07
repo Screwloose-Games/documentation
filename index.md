@@ -22,6 +22,9 @@ published: true
 
 ## 2D Games in Godot
 
+## Shaders
+- [Godot Shader Resources](./content/godot_shader_resources.md)
+
 ### Art & Animation
 
 - [Contributing Godot Scenes](./content/guides/contributing_godot_scenes.md)
@@ -37,7 +40,6 @@ published: true
 ### Lighting
 
 - [Getting Started with 2D Lighting in Godot](./content/guides/2d/lighting/getting-started-light-godot-2d.md)
-
 
 ## 3D Games in Godot
 
@@ -59,9 +61,6 @@ published: true
 ## Game Development
 
 - [Game Design](./content/guides/game_design/game_design.md)
-
-## Shaders
-- [Godot Shader Resources](./content/godot_shader_resources.md)
 
 ---
 
