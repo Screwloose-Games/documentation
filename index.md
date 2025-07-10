@@ -13,7 +13,6 @@ This documentation is a collection of resources, guides, and standards for game 
 
 - [Standard Practices](./content/guides/standard-practices/standard-practice.md)
 - [Contributing Pixel Art](./content/guides/contributing_pixel_art.md)
-- [How to Make Meaningful Contributions](./content/2024-10-21-how-to-make-meaningful-contributions.md)
 - [Handling Merge Conflicts](./content/guides/merge_conflicts/handling_merge_conflicts.md)
 - [Contribution Guide](./content/guides/contribution_guide.md)
 - [UI Design Process](./content/guides/game_design/ui_design_process.md)
