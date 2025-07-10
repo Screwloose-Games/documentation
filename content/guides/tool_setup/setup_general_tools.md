@@ -1,7 +1,7 @@
 ---
 title: Setup General Tools
 layout: page
-published: false
+published: true
 ---
 
 # Setup tools for general development

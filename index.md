@@ -30,7 +30,6 @@ This documentation is a collection of resources, guides, and standards for game 
 - [Pixel Art Guide](./content/guides/art/pixel_art/pixel_art_guide.md)
 - [Creating Animations in Aseprite](./content/guides/art/creating-animations-in-aseprite.md)
 - [Importing Aseprite Animations in Godot](./content/guides/art/importing-aseprite-animations-in-godot.md)
-- [How to Add Normal Maps to Pixel Art](./content/guides/art/pixel_art/normal_maps/add_normal_maps.md)
 
 ### Tilesets & Level Design
 
